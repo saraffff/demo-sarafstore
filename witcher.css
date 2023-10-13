@@ -19,20 +19,18 @@ img{
     height: 500px;
     display: flex;
     justify-content: space-around;
+    margin: -100px;
 }
 h1{
-    
     font-size: 60px;
     color: rgb(45, 80, 161);
 }
 .w3{
-    
     margin-top: 50px;
     height: 500px;
     display: flex;
     justify-content: space-evenly;
     margin-left: 100px;
-
 }
 .g1{
     
@@ -44,14 +42,10 @@ h1{
     height:270px;
     width: 300px;
     text-align: center;
-
-
 }
 .g2{
     width: 100px;
     height: 100px;
-    
-
 }
 .flexible{
     margin-left: 230px;
