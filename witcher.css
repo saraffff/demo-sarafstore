@@ -26,22 +26,25 @@ h1{
     color: rgb(45, 80, 161);
 }
 .w3{
+    
+    margin-top: 50px;
     height: 500px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    margin-left: 100px;
 
 }
 .g1{
     
-   margin-left: 50px;
-    padding: 30px;
+    padding: 10px;
     border: 2px solid rgb(121, 199, 231);
     box-shadow: 2px 3px 2px rgb(138, 212, 225);
     border-radius: 20px;
     background-color: aliceblue;
-    height:350px;
-    width: 320px;
+    height:270px;
+    width: 300px;
     text-align: center;
+
 
 }
 .g2{
